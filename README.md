@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-> Hola
+    🔭 I'm currently a student of Web Development
+
+    📚 Studies:
+        Microcomputer Systems and Network
+        Multi platform Application Development
+
 <!--
 **CarloSzMz/CarloSzMz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
