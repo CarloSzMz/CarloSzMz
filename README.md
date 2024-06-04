@@ -62,9 +62,7 @@
 <ul>
 
 <li>
-<a href="www.linkedin.com/in/carlosanzmunoz" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Carlos Sanz-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosanzmunoz/) 
 </li>
 
 <br>
