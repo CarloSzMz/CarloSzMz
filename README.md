@@ -4,7 +4,6 @@
 <h3>A passionate full stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> !!!</h3>
 
 <p align="center">
-<a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
 </p>
 
 - 👯 I’m looking to collaborate on **front-end, back-end projects**
@@ -63,7 +62,7 @@
 
 <li>
 <a href="www.linkedin.com/in/carlosanzmunoz" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Jorge Gala-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  Carlos Sanz-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -71,7 +70,7 @@
 
 <li>
 <a href="mailto:carlosanzmunoz@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Jorge Gala-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  Carlos Sanz-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
